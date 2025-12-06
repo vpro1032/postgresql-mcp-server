@@ -2,22 +2,6 @@
 
 A Docker-based [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides comprehensive PostgreSQL database interaction capabilities. This server enables AI assistants and other MCP clients to query, inspect, and manage PostgreSQL databases through a standardized interface.
 
-## ❤️ Support This MCP Server
-
-If you find this **Postgres MCP Server** useful and want to support ongoing development, improvements, and new MCP integrations, consider becoming a member on Patreon.
-
-Your support helps me:
-
-- Build more high-quality MCP servers  
-- Maintain and enhance existing features  
-- Add documentation, examples, and real-world use cases  
-- Prioritize feature requests from supporters  
-
-👉 **Become a supporter on Patreon:**  
-[https://www.patreon.com/posts/postgres-mcp-145222791](https://patreon.com/Roger3333?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
-
-Thank you for helping power open MCP development! 🚀
-
 ## Features
 
 ### 🔍 **Query Execution**
@@ -229,6 +213,37 @@ docker-compose exec postgres psql -U postgres
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Support This Project
+
+If you find this MSSQL MCP Server useful for your projects, please consider supporting its development!
+
+### ☕ Become a Patron
+
+This project is maintained by independent developers. Your support helps us:
+- 🚀 Add new features and improvements
+- 🐛 Fix bugs and improve stability
+- 📚 Create better documentation and tutorials
+- 🔒 Enhance security features
+- 🎯 Provide faster support and updates
+
+**[Support us on Patreon](https://www.patreon.com/c/Roger3333)**
+
+### Supporter Benefits
+
+Patrons get access to:
+- 🎯 **Priority Support** - Get help faster when you need it
+- 📝 **Early Access** - Try new features before public release
+- 💬 **Direct Communication** - Influence the project roadmap
+- 🎓 **Exclusive Tutorials** - Advanced usage guides and examples
+- 🏆 **Recognition** - Your name in our SUPPORTERS.md file
+
+### Other Ways to Support
+
+- ⭐ **Star this repository** on GitHub
+- 🐛 **Report bugs** and request features via [GitHub Issues](https://github.com/vpro1032/postgresql-mcp-server/issues)
+- 📖 **Improve documentation** by submitting pull requests
+- 💬 **Spread the word** - Share with colleagues and on social media
 
 ## License
 
