@@ -2,6 +2,22 @@
 
 A Docker-based [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides comprehensive PostgreSQL database interaction capabilities. This server enables AI assistants and other MCP clients to query, inspect, and manage PostgreSQL databases through a standardized interface.
 
+## ❤️ Support This MCP Server
+
+If you find this **Postgres MCP Server** useful and want to support ongoing development, improvements, and new MCP integrations, consider becoming a member on Patreon.
+
+Your support helps me:
+
+- Build more high-quality MCP servers  
+- Maintain and enhance existing features  
+- Add documentation, examples, and real-world use cases  
+- Prioritize feature requests from supporters  
+
+👉 **Become a supporter on Patreon:**  
+[https://www.patreon.com/posts/postgres-mcp-145222791](https://www.patreon.com/posts/postgres-mcp-145222791?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+
+Thank you for helping power open MCP development! 🚀
+
 ## Features
 
 ### 🔍 **Query Execution**
