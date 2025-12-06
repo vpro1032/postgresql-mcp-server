@@ -14,7 +14,7 @@ Your support helps me:
 - Prioritize feature requests from supporters  
 
 👉 **Become a supporter on Patreon:**  
-[https://www.patreon.com/posts/postgres-mcp-145222791](https://www.patreon.com/posts/postgres-mcp-145222791?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+[https://www.patreon.com/posts/postgres-mcp-145222791](https://patreon.com/Roger3333?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
 Thank you for helping power open MCP development! 🚀
 
